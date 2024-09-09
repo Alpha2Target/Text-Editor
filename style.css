@@ -89,7 +89,7 @@ select {
 }
 
 #boldBtn {
-    background-image: url('assets/Bold.png');
+    background-image: url('Bold.png');
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -97,7 +97,7 @@ select {
 }
 
 #italicBtn {
-    background-image: url('assets/Italic.png');
+    background-image: url('Italic.png');
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -105,7 +105,7 @@ select {
 }
 
 #justifyBtn {
-    background-image: url('assets/Justify.png');
+    background-image: url('Justify.png');
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -113,7 +113,7 @@ select {
 }
 
 #strikeBtn {
-    background-image: url('assets/Strike.png');
+    background-image: url('Strike.png');
     background-size: cover;
     width: 30px;
     height: 30px;
